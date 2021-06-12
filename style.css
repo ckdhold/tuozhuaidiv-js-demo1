@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+body{
+    border: 1px solid green;
+    margin: 0;
+    height: 100vh;
+    /* position: relative; */
+}
+.demo{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    /* top: 0; */
+    /* left: 0; */
+}
